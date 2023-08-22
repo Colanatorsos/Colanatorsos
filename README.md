@@ -44,6 +44,8 @@
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Colanatorsos&bg_icons=true&theme=transparent)
+![Languages](https://raw.githubusercontent.com/Colanatorsos/github-stats-transparent/output/generated/languages.svg)
 <br/>
 <br/>
 <div align="center">
