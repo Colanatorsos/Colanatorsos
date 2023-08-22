@@ -44,8 +44,26 @@
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </p>
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Colanatorsos&bg_icons=true&theme=transparent)
-![Languages](https://raw.githubusercontent.com/Colanatorsos/github-stats-transparent/output/generated/languages.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colanatorsos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colanatorsos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <div align="center">
