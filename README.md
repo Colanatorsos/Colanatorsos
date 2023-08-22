@@ -46,5 +46,5 @@
 </p>
 <br/>
 <br/>
-![Colanatorsos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colanatorsos&show_icons=true&theme=radical)
+![GitHub stats](https://img.shields.io/github/followers/Colanatorsos?label=Followers&style=social)
 
