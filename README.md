@@ -44,3 +44,7 @@
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </p>
+<br/>
+<br/>
+![Colanatorsos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colanatorsos&show_icons=true&theme=radical)
+
