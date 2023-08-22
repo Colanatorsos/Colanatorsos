@@ -46,7 +46,6 @@
 </p>
 <br/>
 <br/>
-<div align="center" >
          .                                                      .
         .n                   .                 .                  n.
   .   .dP                  dP                   9b                 9b.    .
@@ -68,5 +67,4 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               X. 9  `   '  P )X
                               `b  `       '  d'
                                `             '
-</div>
             
