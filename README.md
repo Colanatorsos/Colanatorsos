@@ -52,11 +52,13 @@
 </p>
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Colanatorsos&bg_icons=true&theme=transparent)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Colanatorsos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Colanatorsos" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colanatorsos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Colanatorsos&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=ru" alt="Colanatorsos" /></p>
 
+<p>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colanatorsos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 </div>
 <br/>
