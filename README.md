@@ -52,7 +52,7 @@
 </p>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colanatorsos&layout=donut)](https://github.com/Colanatorsos/github-readme-stats)
 
 <a align="right" href="https://www.codewars.com/users/Colanatorsos"><img src="https://www.codewars.com/users/Colanatorsos/badges/large"></a>
 
