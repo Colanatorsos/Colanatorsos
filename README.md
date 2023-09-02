@@ -54,7 +54,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Colanatorsos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Colanatorsos" /></p>
 
-<a href="https://www.codewars.com/users/Colanatorsos"><img src="https://www.codewars.com/users/Colanatorsos/badges/large"></a>
+<a align="right" href="https://www.codewars.com/users/Colanatorsos"><img src="https://www.codewars.com/users/Colanatorsos/badges/large"></a>
 
 <p>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colanatorsos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
